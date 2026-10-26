@@ -25,12 +25,15 @@ We enforce determinism and security through code-driven infrastructure and rigor
 ## III. Specialized Domain Pipelines
 
 ### Machine Learning (CI/CD/CT)
+
 We extend traditional CI/CD with **Continuous Training (CT)**, incorporating data validation, model training reproducibility, and shadow model inference to maintain model integrity.
 
 ### High-Reliability SRE
+
 Our pipelines are **Error-Budget Aware**, automatically throttling release velocity if SLO compliance is threatened, and integrating automated chaos experiments via Chaos Mesh.
 
 ### Distributed Microservices
+
 We utilize **Contract-Testing (Pact)** and **Event Replay Testing** to prevent breaking changes and ensure deterministic behavior in our event-driven architectures.
 
 ---
