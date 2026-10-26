@@ -3,6 +3,7 @@
 Thank you for using **shards-playbooks**. We are committed to providing a high-quality experience.
 
 ## 🛠️ Getting Help
+
 - **Documentation**: Please check the [README.md](../README.md) first.
 - **GitHub Issues**: For bug reports and feature requests, please use our [Issue Templates](ISSUE_TEMPLATE/).
 - **Discussions**: For general questions and community support, join our [GitHub Discussions](https://github.com/Shards-inc/shards-playbooks/discussions).
